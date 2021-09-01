@@ -1,0 +1,35 @@
+.wrapper {
+  width: 100%;
+}
+header {
+  width: 100%;
+  border-bottom: double black 3px;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  height: 120px;
+  background-color: white;
+}
+.container {
+  width: 100%;
+  padding-top: 120px;
+  padding-bottom: 80px;
+}
+.container main {
+  width: 80%;
+}
+.container .side {
+  width: 20%;
+}
+footer{
+  border-top: double black 3px;
+}
+
+a {
+  display: block;
+}
+header ul li {
+  text-align: right;
+  display: block;
+  float: right;
+}
